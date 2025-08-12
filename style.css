@@ -1,0 +1,28 @@
+tml,body{
+    margin-top: 20%;
+    margin-left: 35%;
+}
+.btn{
+    padding: 12px 24px;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    margin-right: 10px;;
+}
+.MintFrost_btn{
+    background-color: red;
+}
+.SageGreen_btn{
+    background-color:green;
+}
+.SandStone_btn{
+    background-color: blue;
+}
+.Pewter_btn{
+    background-color: goldenrod;
+}
+h1{
+    margin-left: 15%;
+    
+}
